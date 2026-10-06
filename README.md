@@ -1,6 +1,6 @@
-# BoneImager
+# Bone Imager
 
-**BoneImager** is a Python- and R-based image processing and
+**Bone Imager** is a Python- and R-based image processing and
 quantitative analysis pipeline for analyzing bone and bone marrow
 structures from micro-computed tomography (microCT) image stacks.
 
